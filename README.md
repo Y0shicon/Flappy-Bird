@@ -1,2 +1,2 @@
 # Flappy-Bird
-Flappy bird made on pyjama
+Flappy bird made on pygame
